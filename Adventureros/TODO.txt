@@ -1,0 +1,36 @@
+Todas:
+	- Gif patrocinadores
+	- Redes sociales
+	- ¿sponsors debería estar mas a mano?
+	- El copiright es muy looser, cambiar el nombre de la empresa
+
+De interes
+	- Inicio: OK
+	- Notas: OK
+		- Como cuidar a los mas duros: Mail a pablo
+		- RTI: Mail a Pablo
+		- GPS: OK (¿Mail al indio?)
+		- Manejo todo terreno: Mail a Pablo
+	- Fichas tecnicas: confirmar años modelos
+		- Palio 18: OK
+		- Palio 17: OK
+		- Palio 16: OK
+		- Idea 18: OK
+		- Idea 16: OK
+		- Strada 18 CE: OK
+		- Strada 17 CE: OK
+		- Strada 16 CE: OK
+		- Strada 16 DC: OK
+	- Travesías: OK --> poblar
+	- Calendario: Mailto --> poblar
+	- Links: OK --> poblar
+	- Foro: (En construcción) OK
+
+La empresa:
+	- Quienes somos: validar con Pablo, Nombres y mailto
+	- Contactenos: Mailto
+
+Reglamento:
+	- Privacidad: OK
+	- Reglas: OK
+	- Reglas Foro: OK
